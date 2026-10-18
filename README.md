@@ -37,12 +37,12 @@ Outside of programming, I spend my time running and lifting, and I am passionate
 
 <p align="center">
   <img
-    src="https://mattiamazza05-stats.vercel.app/api?username=MattiaMazza05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
+    src="https://mattiamazza05-stats.vercel.app/api?username=tzsquared&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent"
     height="170"
     alt="GitHub statistics"
   />
   <img
-    src="https://mattiamazza05-stats.vercel.app/api/top-langs/?username=MattiaMazza05&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    src="https://mattiamazza05-stats.vercel.app/api/top-langs/?username=tzsquared&layout=compact&langs_count=8&hide_border=true&theme=transparent"
     height="170"
     alt="Most used languages"
   />
